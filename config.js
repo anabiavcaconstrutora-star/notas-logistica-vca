@@ -7,7 +7,8 @@
 // (com a opção de ver uma demonstração com dados de exemplo).
 // ============================================================
 window.VCA_CONFIG = {
-  supabaseUrl: 'COLE_AQUI_A_PROJECT_URL',
-  supabaseAnonKey: 'COLE_AQUI_A_CHAVE_PUBLICA',
-  leituraAutomatica: true   // false = desliga a leitura dos documentos pela IA
+  supabaseUrl: 'https://pessynsvgvfoqfgjnsnr.supabase.co',
+  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBlc3N5bnN2Z3Zmb3FmZ2puc25yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ1ODA5MjAsImV4cCI6MjExMDE1NjkyMH0.n3-NND8kuh1UmnChqaFu9H2O-DASKHGOMg1Yy6SWQxk',
+  leituraAutomatica: true
+};
 };
